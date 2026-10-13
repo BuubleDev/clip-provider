@@ -1,0 +1,20 @@
+{
+  "inventory_basis": "Original authorized folder metadata observed during baseline; no media/profile/credential content inspection",
+  "original_files_observed": 10753,
+  "selected_original_files": 11,
+  "excluded_original_files": 10742,
+  "selected_code_docs": "six Python files, two launchers, keyword list, Thai manual, historical README",
+  "excluded_classes": [
+    "downloaded/output media",
+    "vendor packages/models/binaries",
+    "browser profiles/sessions",
+    "caches/builds/backups",
+    "operational config/key/queues/histories/logs"
+  ],
+  "candidate2_original_ten_bytes": 248954,
+  "candidate2_selected_ten_worktree_bytes": 248616,
+  "candidate3_helper_original_and_worktree_bytes": 12302,
+  "candidate3_original_eleven_bytes": 261256,
+  "candidate3_selected_eleven_worktree_bytes": 260918,
+  "size_clarification": "Raw original vs raw candidate bytes differ through portability/EOF edits; Git staged text normalization is a separate size recorded by staged review manifest"
+}

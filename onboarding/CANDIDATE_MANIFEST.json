@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "candidate": 3,
+  "source_git_revision": null,
+  "all_public_paths": [
+    ".gitignore",
+    "BEAUTY_SEARCH_KEYWORDS.txt",
+    "HairTutorial_README.txt",
+    "MANUAL_TH.txt",
+    "README.md",
+    "Run_Hair_Tutorial_Tool.cmd",
+    "Run_Hair_Tutorial_Tool_Silent.vbs",
+    "app/app.py",
+    "app/cover_generator.py",
+    "app/media_pipeline.py",
+    "app/stockos_connector.py",
+    "app/video_cleaner.py",
+    "Song/auto_cut_reels.py",
+    "requirements.txt",
+    "tests/import_checks.py",
+    "onboarding/CANDIDATE_MANIFEST.json",
+    "onboarding/INVENTORY_COUNTS.json",
+    "onboarding/OFFLINE_CHECKS.json",
+    "onboarding/SECRET_SCAN.json",
+    "onboarding/VALIDATION.json"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "worktree_bytes": 566,
+      "worktree_sha256": "1b22a471e22823e7c8a70d0ef9d32d826ca08bb924d99ed9630abf052c7dff73"
+    },
+    {
+      "path": "BEAUTY_SEARCH_KEYWORDS.txt",
+      "worktree_bytes": 9528,
+      "worktree_sha256": "1f4c1c064bf920c8435545248c8e1fd4e65214684b7a3b93e7be65dc6f55c55c",
+      "original_bytes": 9528,
+      "original_sha256": "1f4c1c064bf920c8435545248c8e1fd4e65214684b7a3b93e7be65dc6f55c55c"
+    },
+    {
+      "path": "HairTutorial_README.txt",
+      "worktree_bytes": 936,
+      "worktree_sha256": "1ca0af0b510c1fc28867420525071537936fbeec5b9007174ade7bf9aea6bac2",
+      "original_bytes": 936,
+      "original_sha256": "1ca0af0b510c1fc28867420525071537936fbeec5b9007174ade7bf9aea6bac2"
+    },
+    {
+      "path": "MANUAL_TH.txt",
+      "worktree_bytes": 30859,
+      "worktree_sha256": "8363ab1f1916ab98053e375f1abf0ef0d0c070034ee2594d908c09e664b2780c",
+      "original_bytes": 30859,
+      "original_sha256": "8363ab1f1916ab98053e375f1abf0ef0d0c070034ee2594d908c09e664b2780c"
+    },
+    {
+      "path": "README.md",
+      "worktree_bytes": 3941,
+      "worktree_sha256": "40b27c60420b2adc2cf03265273ea90dc18aaf9e99e9221ce5d5de1f8b409408"
+    },
+    {
+      "path": "Run_Hair_Tutorial_Tool.cmd",
+      "worktree_bytes": 35,
+      "worktree_sha256": "7e11421190ae76b68620059c9bef6c44b963ef67c40c66790c387f60468ed08f",
+      "original_bytes": 231,
+      "original_sha256": "de2545c4bd00c71183057df1d8d07bf75b14f1025cb2717147c2fd8fdba87673"
+    },
+    {
+      "path": "Run_Hair_Tutorial_Tool_Silent.vbs",
+      "worktree_bytes": 327,
+      "worktree_sha256": "08c6a974ed4153bf3554e1011fdbf4c1ffc829cd258918dfd1b9b7d68f02c5de",
+      "original_bytes": 305,
+      "original_sha256": "975e4330dd8c1c5ba5a92e740a03b1f5ca2d8a0e986975bee49e04171f159bd7"
+    },
+    {
+      "path": "app/app.py",
+      "worktree_bytes": 146281,
+      "worktree_sha256": "e76aa32378d4678543c5fd045af73537de701d1a4c9e3bf814a805e51ca3fc88",
+      "original_bytes": 146269,
+      "original_sha256": "ee9470fbeb08cd2cf9eb120b3fe73b0f9d1445f345762ee3b7ae9489c5b7cae1"
+    },
+    {
+      "path": "app/cover_generator.py",
+      "worktree_bytes": 8191,
+      "worktree_sha256": "9ba9131e66ec04294ad1da2eee487cc8b39ad6d7b28807f70ace670b6cc46796",
+      "original_bytes": 8192,
+      "original_sha256": "018eb4b6b9cb9d9298573a0f87267cbb3b33a34956fad93ccd8fb6c20f42ea47"
+    },
+    {
+      "path": "app/media_pipeline.py",
+      "worktree_bytes": 8605,
+      "worktree_sha256": "0eb0d2381d468e8b4c3bb0bbf9c970b0ec3da74525655fce4b045694d4223079",
+      "original_bytes": 8605,
+      "original_sha256": "0eb0d2381d468e8b4c3bb0bbf9c970b0ec3da74525655fce4b045694d4223079"
+    },
+    {
+      "path": "app/stockos_connector.py",
+      "worktree_bytes": 14971,
+      "worktree_sha256": "b434b234ee08dc5c2a537d86fd9c20febc8e5baa39238043167d0e52b37eaeeb",
+      "original_bytes": 14971,
+      "original_sha256": "b434b234ee08dc5c2a537d86fd9c20febc8e5baa39238043167d0e52b37eaeeb"
+    },
+    {
+      "path": "app/video_cleaner.py",
+      "worktree_bytes": 28883,
+      "worktree_sha256": "b5f5962a72b6aac187ff7f6229cc06923411caaf3803fdfb95f48c352021ab96",
+      "original_bytes": 29058,
+      "original_sha256": "408c447318b337e641656f8d27a5a04172355d59a8757e44a992806d03428cf6"
+    },
+    {
+      "path": "Song/auto_cut_reels.py",
+      "worktree_bytes": 12302,
+      "worktree_sha256": "a6dc5fde061adf373ea38699723eb1a2b437716253080bcbe9b57baaf20a765b",
+      "original_bytes": 12302,
+      "original_sha256": "a6dc5fde061adf373ea38699723eb1a2b437716253080bcbe9b57baaf20a765b"
+    },
+    {
+      "path": "requirements.txt",
+      "worktree_bytes": 293,
+      "worktree_sha256": "2138020b5d64fd75669e1fc657458562a18eac6ebb1ffa8242171519f37a7593"
+    },
+    {
+      "path": "tests/import_checks.py",
+      "worktree_bytes": 4932,
+      "worktree_sha256": "106ad13b426455eac05fb12810b5bd22fd0bcb641403ab9018f6c9ab3c32ca57"
+    },
+    {
+      "path": "onboarding/INVENTORY_COUNTS.json",
+      "worktree_bytes": 1017,
+      "worktree_sha256": "554c9b33d86cf74c5afc953b5943d01973a45921703da24ba649d02b01dab854"
+    },
+    {
+      "path": "onboarding/OFFLINE_CHECKS.json",
+      "worktree_bytes": 2884,
+      "worktree_sha256": "ddbda89443d796ef69cd1e2610f8f818e972a76b0643fd2bf1e88d28ba0a33ee"
+    },
+    {
+      "path": "onboarding/SECRET_SCAN.json",
+      "worktree_bytes": 187,
+      "worktree_sha256": "d3b9451d10816575d1317785432ba7184ccce57af0d4cc1ecade6cc4a2fc54e3"
+    },
+    {
+      "path": "onboarding/VALIDATION.json",
+      "worktree_bytes": 1207,
+      "worktree_sha256": "e9eebde92506f1058396448100b65120e687a5218175d8abcd86102cd44d3352"
+    }
+  ],
+  "note": "Only relative paths, bytes and hashes; this manifest's own digest is in review packet. Worktree and staged text-normalized bytes are separate."
+}

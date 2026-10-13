@@ -1,0 +1,141 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "compile:app.py",
+      "status": "PASS"
+    },
+    {
+      "check": "compile:cover_generator.py",
+      "status": "PASS"
+    },
+    {
+      "check": "compile:media_pipeline.py",
+      "status": "PASS"
+    },
+    {
+      "check": "compile:stockos_connector.py",
+      "status": "PASS"
+    },
+    {
+      "check": "compile:video_cleaner.py",
+      "status": "PASS"
+    },
+    {
+      "check": "compile:auto_cut_reels.py",
+      "status": "PASS"
+    },
+    {
+      "check": "runtime-root-is-checkout",
+      "status": "PASS"
+    },
+    {
+      "check": "launcher-isolation:Run_Hair_Tutorial_Tool.cmd",
+      "status": "PASS"
+    },
+    {
+      "check": "launcher-isolation:Run_Hair_Tutorial_Tool_Silent.vbs",
+      "status": "PASS"
+    },
+    {
+      "check": "synthetic-classification",
+      "status": "PASS"
+    },
+    {
+      "check": "unknown-category-fallback",
+      "status": "PASS"
+    },
+    {
+      "check": "minimum-boundary",
+      "status": "PASS"
+    },
+    {
+      "check": "maximum-boundary",
+      "status": "PASS"
+    },
+    {
+      "check": "low-resolution",
+      "status": "PASS"
+    },
+    {
+      "check": "too-short",
+      "status": "PASS"
+    },
+    {
+      "check": "needs-trim",
+      "status": "PASS"
+    },
+    {
+      "check": "landscape-review",
+      "status": "PASS"
+    },
+    {
+      "check": "blur-review",
+      "status": "PASS"
+    },
+    {
+      "check": "dark-review",
+      "status": "PASS"
+    },
+    {
+      "check": "border-review",
+      "status": "PASS"
+    },
+    {
+      "check": "credential-config-absent",
+      "status": "PASS"
+    },
+    {
+      "check": "song-helper-available",
+      "status": "PASS"
+    },
+    {
+      "check": "song-helper-stdlib-only",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:.stockos_connector.key",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:.stockos_connector.key.tmp",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:nested/.stockos_connector.key.tmp",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:stockos_connector.json",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:.env",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:app/browser_profile/Default/Cookies",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:app/vendor/package.py",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:Song/example.mp3",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:Song/Reels_Cuts/report.csv",
+      "status": "PASS"
+    },
+    {
+      "check": "ignore:Song/auto_cut_reels.py",
+      "status": "PASS"
+    },
+    {
+      "check": "internal-onboarding-excluded-from-index",
+      "status": "PASS"
+    }
+  ]
+}

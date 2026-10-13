@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "task_id": "CLIP-PROVIDER-IMPORT-001",
+  "candidate_cycle": 3,
+  "candidate_ceiling": 5,
+  "status": "pending independent re-review; publication blocked",
+  "python": "3.12.14",
+  "safe_check_command": "python -I tests/import_checks.py",
+  "checks_passed": 34,
+  "offline_checks": "PASS",
+  "scope": "compile six source modules; AST-only pure logic; hypothetical Git ignore paths; internal-index exclusion",
+  "secret_screen": "PASS heuristic signatures, not independent security approval",
+  "dependency_install": "NOT_RUN",
+  "application_ocr_browser_provider_execution": "NOT_RUN",
+  "gui_media_connector_qa": "NOT_RUN separate controlled synthetic plan",
+  "independent_review": "Candidate2 REQUEST_CHANGES; candidate3 pending exact-tree re-review",
+  "runtime_findings": "Existing findings unresolved; no activation readiness",
+  "rights_license_public_disclosure": "BLOCKED Owner decision including host/routes/brands/manual",
+  "commit_push_initialization": "NOT_RUN",
+  "source_git": "absent; original content hashes in candidate manifest",
+  "source_preservation": "PASS selected source hashes at copy/recheck; original folder never modified"
+}

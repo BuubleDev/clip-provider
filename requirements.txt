@@ -1,0 +1,10 @@
+# Observed versions from source vendor directory metadata, not a verified lock.
+# Installation was NOT_RUN. Transitive packages and artifacts are not locked.
+Pillow==12.3.0
+ddgs==9.16.0
+requests==2.34.2
+playwright==1.63.0
+yt-dlp==2026.8.19
+opencv-python==5.0.0.93
+numpy==2.5.3
+rapidocr==3.9.2
